@@ -103,6 +103,6 @@ The dashboard provides insights into **demographics, salaries, job satisfaction,
 
 ---
 
-## 📷 Dashboard Preview
-*(Add screenshots here)*  
+## 📷 Dashboard Preview 
 ![Dashboard Overview](Dashboard.PNG)
+
